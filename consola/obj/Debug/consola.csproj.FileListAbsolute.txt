@@ -1,0 +1,6 @@
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\bin\Debug\consola.exe.config
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\obj\Debug\consola.csprojResolveAssemblyReference.cache
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\bin\Debug\consola.exe
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\bin\Debug\consola.pdb
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\obj\Debug\consola.exe
+c:\users\psanchez\documents\visual studio 2013\Projects\consola\consola\obj\Debug\consola.pdb
